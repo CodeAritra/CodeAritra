@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aritra%20Dhank&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20MERN%20%2B%20TypeScript&descAlignY=60&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aritra%20Dhank&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Architect%20%7C%20MERN%20%2B%20TypeScript&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
 </div>
 
@@ -50,30 +50,6 @@ I contribute to **open source** (OWASP Nest — merged PR #3834), lead web devel
 Currently interning at **ARMB** as a Software Engineer, building cross-platform mobile features in React Native.
 
 </td>
-<td valign="top" width="40%">
-
-**Currently**
-
-```yaml
-Role     : SWE Intern @ ARMB
-Stack    : React Native · Node.js · TypeScript
-Focus    : Full Stack + AI Systems
-Chapter  : GDG Web Dev Lead
-```
-
-**Open To**
-
-```yaml
-- SDE / Full Stack Engineer roles
-- AI Engineer / ML Engineer roles
-- Series A+ funded product startups
-- GCCs (Salesforce, Cisco, Walmart, GE)
-- Target Range  : 6–10 LPA
-- Target Start  : Post May 2027
-- Preferred Locs: Bangalore · Pune
-                  Hyderabad · Gurgaon
-```
-
 </td>
 </tr>
 </table>
@@ -315,7 +291,7 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeAritra&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=CodeAritra&show_icons=true&theme=github-dark&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true&include_all_commits=true" height="180" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeAritra&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=8B5CF6&fire=7C3AED&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6D28D9" height="180" />
 
@@ -335,7 +311,7 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=CodeAritra&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=CodeAritra&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B&cacheSeconds=86400)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -362,7 +338,7 @@ Leading web development initiatives for the Google Developer Group campus chapte
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeAritra/CodeAritra/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeAritra/CodeAritra/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/output/github-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/main/github-snake-dark.svg" />
 </picture>
 
 </div>
