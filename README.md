@@ -253,7 +253,6 @@ Leading web development initiatives for the Google Developer Group campus chapte
 | 🥇 **Top 5 Hackathon Finish** | Top-5 placement at collegiate hackathon · awarded .xyz domain for technical project quality |
 | 🎓 **CGPA 8.80 / 10** | Consistently high academic performance through AI & ML specialization coursework |
 | 🌐 **GDG Web Dev Lead** | Appointed campus Web Development Lead · driving technical community for 50+ members |
-| 📦 **Amazon MLSS Applicant** | Prepared and applied for Amazon Machine Learning Summer School curriculum |
 
 </div>
 
