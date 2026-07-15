@@ -14,23 +14,6 @@
 
 <div align="center">
 
-![B.Tech CS (AI & ML)](https://img.shields.io/badge/B.Tech%20CS-AI%20%26%20ML%20Specialization-6D28D9?style=flat-square&logo=academia&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.80%20%2F%2010-7C3AED?style=flat-square&logo=bookstack&logoColor=white)
-![MCKV Institute](https://img.shields.io/badge/MCKV%20Institute%20of%20Engineering-Kolkata%2C%20India-4C1D95?style=flat-square&logo=graduation-cap&logoColor=white)
-![Graduating](https://img.shields.io/badge/Graduating-May%202027-5B21B6?style=flat-square&logo=calendar&logoColor=white)
-
-</div>
-
-<div align="center">
-
-![Location](https://img.shields.io/badge/📍%20Kolkata-West%20Bengal%2C%20India-1E1B4B?style=flat-square)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-aritradhank.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://aritradhank.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aritra--dhank-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aritra-dhank)
 [![Email](https://img.shields.io/badge/Email-aritradhank21%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritradhank21@gmail.com)
@@ -123,24 +106,6 @@ Chapter  : GDG Web Dev Lead
 
 <br/>
 
----
-
-## ⬡ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **RAG Architecture** | ████████░░ Advanced | LangChain · ChromaDB · Gemini API · Document chunking · Embedding pipelines |
-| **LLM Integration** | ████████░░ Advanced | Gemini API · Prompt engineering · Structured output · Context management |
-| **Vector Databases** | ███████░░░ Proficient | ChromaDB · Similarity search · Embedding storage · Retrieval optimization |
-| **ML Fundamentals** | ██████░░░░ Intermediate | Supervised/Unsupervised Learning · Feature Engineering · Model Evaluation |
-| **NLP Concepts** | ██████░░░░ Intermediate | Tokenization · Embeddings · Semantic search · Text classification |
-| **Mathematical ML** | █████░░░░░ Intermediate | Linear Algebra · Probability · Statistics · Calculus for ML |
-
-</div>
-
-<br/>
 
 ---
 
@@ -328,10 +293,6 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 ![OCI Foundations](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-Foundations%20Associate-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
 
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20%26%20Data%20Structures-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white)
-
 </div>
 
 <br/>
@@ -405,49 +366,6 @@ Leading web development initiatives for the Google Developer Group campus chapte
 </picture>
 
 </div>
-
-<br/>
-
----
-
-## ⬡ Current Focus
-
-```yaml
-# Aritra Dhank — Engineering Focus, July 2026
-
-learning:
-  - System Design (HLD + LLD) for senior engineering interviews
-  - DSA via NeetCode 150 — Arrays, Trees, Graphs, DP
-  - Core CS: Operating Systems · DBMS · Computer Networks
-  - Advanced TypeScript patterns for production codebases
-
-building:
-  - AI-integrated full stack applications with LLM APIs
-  - RAG pipeline improvements with better chunking strategies
-  - React Native production features at ARMB
-  - Portfolio-grade projects targeting startup + GCC hiring criteria
-
-exploring:
-  - BullMQ + Redis for async job queue architecture
-  - Vector DB performance tuning in ChromaDB
-  - Open source contributions across MERN-adjacent ecosystems
-  - Prompt engineering patterns for structured LLM output
-
-open_to:
-  roles:
-    - SDE / Full Stack Engineer
-    - AI Engineer / ML Engineer
-    - Software Engineer (Generalist)
-  companies:
-    - Series A+ funded product startups
-    - GCCs: Salesforce · Cisco · Walmart · GE HealthCare
-  timeline: Applications from August 2026 · Offer by December 2026
-  locations:
-    - Bangalore
-    - Pune
-    - Hyderabad
-    - Gurgaon
-```
 
 <br/>
 
