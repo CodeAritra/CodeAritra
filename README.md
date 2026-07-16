@@ -334,11 +334,7 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeAritra/CodeAritra/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeAritra/CodeAritra/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/main/github-snake-dark.svg" />
-</picture>
+<img src="https://github-contribution-snake.vercel.app/img/CodeAritra/CodeAritra.svg" alt="Contribution Snake" />
 
 </div>
 
