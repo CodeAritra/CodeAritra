@@ -290,7 +290,7 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeAritra&show_icons=true&theme=github-dark&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true&include_all_commits=true" height="180" />
+<img src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/stats/profile-summary-card-output/3-stats.svg" height="180" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeAritra&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=8B5CF6&fire=7C3AED&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6D28D9" height="180" />
 
@@ -298,7 +298,7 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAritra&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" height="180" />
+<img src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/stats/profile-summary-card-output/2-most-commit-language.svg" height="180" />
 
 </div>
 
