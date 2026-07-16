@@ -13,7 +13,7 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@v0.1.3
         with:
           username: CodeAritra
-          theme: tokyonight
+          theme: dracula
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Publish to stats branch
