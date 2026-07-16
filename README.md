@@ -306,18 +306,6 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 ---
 
-## ⬡ GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=CodeAritra&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B&cacheSeconds=86400)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
 ## ⬡ Contribution Activity
 
 <div align="center">
