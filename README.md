@@ -260,32 +260,6 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 ---
 
-## ⬡ Certifications
-
-<div align="center">
-
-### Oracle
-
-![OCI Foundations](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-Foundations%20Associate-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## ⬡ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-CodeAritra-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/CodeAritra)
-
-</div>
-
-<br/>
-
----
-
 ## ⬡ GitHub Analytics
 
 <div align="center">
@@ -322,7 +296,11 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 <div align="center">
 
-<img src="https://github-contribution-snake.vercel.app/img/CodeAritra/CodeAritra.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeAritra/CodeAritra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeAritra/CodeAritra/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/output/github-snake.svg" />
+</picture>
 
 </div>
 
