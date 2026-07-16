@@ -290,7 +290,7 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/stats/dracula/0-profile-details.svg" height="180" />
+<img src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/main/profile-summary-card-output/dracula/0-profile-details.svg" height="180" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeAritra&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=8B5CF6&fire=7C3AED&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6D28D9" height="180" />
 
@@ -298,7 +298,7 @@ Leading web development initiatives for the Google Developer Group campus chapte
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/stats/dracula/2-most-commit-language.svg" height="180" />
+<img src="https://raw.githubusercontent.com/CodeAritra/CodeAritra/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="180" />
 
 </div>
 
